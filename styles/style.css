@@ -70,7 +70,7 @@ div .h-button:hover {
     align-items: center;
     justify-content: center;
     color: white;
-    background:
+    background-image:
         linear-gradient(to top, rgba(1, 1, 1, 0.728), rgba(0, 0, 0, 0.806)),
         url(../images/background.jpg);
 
