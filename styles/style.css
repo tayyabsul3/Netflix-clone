@@ -72,7 +72,7 @@ div .h-button:hover {
     color: white;
     background:
         linear-gradient(to top, rgba(1, 1, 1, 0.728), rgba(0, 0, 0, 0.806)),
-        url(./images/background.jpg);
+        url(../images/background.jpg);
 
 }
 
